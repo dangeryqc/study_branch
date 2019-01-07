@@ -1,1 +1,1 @@
-name=danger age=20
+Creating a new branch is quick & simple.
