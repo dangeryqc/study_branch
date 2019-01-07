@@ -12,7 +12,7 @@ import kotlinx.android.synthetic.main.activity_download.*
 import www.rejoin.com.one_code.R
 
 class DownloadActivity : AppCompatActivity(), View.OnClickListener {
-
+/***/
 
     var downloadBinder: DownloadService.downloadBinder? = null
     override fun onCreate(savedInstanceState: Bundle?) {
